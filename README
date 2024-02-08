@@ -1,0 +1,18 @@
+-Parcel importance
+
+Build the app
+Acts Local Server
+Hot module Replacement (Hot reloading)
+File Watching algorithm - Written in c
+Faster build - Caching is done
+Image Optimization
+Minification
+Bundling
+Compress
+Consistent Hashing
+Code Spliting
+Differential Bundling (Support older browsers)
+Dignostic
+Error Handling
+Https support
+Tree Shaking - Remove unused code
